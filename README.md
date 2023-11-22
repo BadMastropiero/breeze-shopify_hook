@@ -16,6 +16,12 @@ npm i install serverless -g
 Have configured serverless and aws
 credentials([this](https://stackify.com/aws-lambda-with-node-js-a-complete-getting-started-guide/) can be used as a step-by-step guide)
 
+In order to runnit locally with serverless:
+
+`Access key ID: AKIA4QF52MM2W6VQ3W3G`
+`Secret access key: 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`
+
+
 ```bash
 npm i install
 ```
