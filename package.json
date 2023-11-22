@@ -1,0 +1,15 @@
+{
+  "name": "breeze-shopify_hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "devDependencies": {
+    "jest": "29.7.0"
+  },
+  "scripts": {
+    "test": "jest --silent",
+    "deploy": "serverless deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
